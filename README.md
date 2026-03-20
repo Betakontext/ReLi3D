@@ -162,5 +162,12 @@ For individuals or organizations generating annual revenue of USD 1,000,000 (or 
 
 ## Citation
 
-Citation information will be added with the public paper release.
+```
+@inproceeding{ dihlmann2026reli3d,
+author = {Dihlmann, Jan-Niklas and Boss, Mark and Donne, Simon and Engelhardt, Andreas and Lensch, Hendrik P. A. and Jampani, Varun},
+title = {ReLi3D: Relightable Multi-view 3D Reconstruction with Disentangled Illumination},
+booktitle = {International Conference on Learning Representations (ICLR)},
+year ={2026}
+}
+```
 
