@@ -11,6 +11,7 @@
 </p>
 
 <p align="center">
+  <span><a href="https://arxiv.org/abs/2603.19753">Paper</a></span>&nbsp;&nbsp;&nbsp;
   <span><a href="https://reli3d.jdihlmann.com/">Project Page</a></span>&nbsp;&nbsp;&nbsp;
   <span><a href="https://huggingface.co/StabilityLabs/ReLi3D">Model (Hugging Face)</a></span>&nbsp;&nbsp;&nbsp;
   <span><a href="https://github.com/Stability-AI/ReLi3D">Code</a></span>
