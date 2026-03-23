@@ -10,7 +10,13 @@ import numpy as np
 import torch
 import torch.nn.functional as F
 from omegaconf import OmegaConf
-from sdata.mappers.base import AbstractMapper
+
+try:
+    from sdata.mappers.base import AbstractMapper
+except ImportError:
+    class AbstractMapper:
+        def __init__(self, *args, **kwargs):
+            pass
 
 from src.constants import Names
 from src.image_utils import load_image
